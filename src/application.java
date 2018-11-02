@@ -15,6 +15,7 @@ public class application {
                     arr[j] = arr[j + 1];
                     arr[j + 1] = tmp;
                     System.out.println(Arrays.toString(arr));
+
                 }
             }
 
